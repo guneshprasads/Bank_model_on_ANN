@@ -32,7 +32,7 @@
     
 
 ### Brief Explanation
-    These is a model which is based on ANN and Tensorflow.The given dataset explain us about the past 6 months coustmers data,These dataset tells us that,How         many coustemers are leaving the bank and what are there data. The "Task" is to find the reason behind the coustmers leaving 
+    These is a model which is based on ANN and Tensorflow.The given dataset explain us about the past 6 months coustmers data,These dataset tells us that,How many coustemers are leaving the bank and what are there data. The "Task" is to find the reason behind the coustmers leaving 
     If we get the know the reason at that time the bank can offer special offers to the coustmers who is edge of leaving the bank by closing his/her account.
     To find the reason we will use the ANN for Classification model and predict the answer.
 
